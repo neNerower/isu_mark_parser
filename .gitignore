@@ -1,0 +1,9 @@
+# Virtual enviroment
+parser-env/*
+!parser-env/
+!parser-env/requirements.txt
+
+
+# Input and output data files
+*.html
+*.xlsx
